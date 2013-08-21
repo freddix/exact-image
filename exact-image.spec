@@ -1,11 +1,11 @@
 Summary:	Image processing library
 Name:		exact-image
-Version:	0.8.8
+Version:	0.8.9
 Release:	1
 License:	GPL v2
 Group:		Applications/Graphics
 Source0:	http://dl.exactcode.de/oss/exact-image/%{name}-%{version}.tar.bz2
-# Source0-md5:	a25c8cebc1f34bb90794606c5e8aad5e
+# Source0-md5:	a8694722cd7cc9aa9407950a8440f0cd
 Patch0:		%{name}-libpng15.patch
 URL:		http://www.exactcode.de/site/open_source/exactimage/
 BuildRequires:	OpenEXR-devel
